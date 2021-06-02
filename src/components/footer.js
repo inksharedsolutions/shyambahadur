@@ -22,7 +22,7 @@ const Footer = ()=>{
                         </h1>
 
                         <p>
-                            Shram Bahadur loves to hear from readers. You can reach her via email. 
+                            Shyam Bahadur loves to hear from readers. You can reach her via email. 
                             Feel free to send questions about writing, her works, interviews 
                             and other publicity matters.
                         </p>
@@ -69,7 +69,7 @@ const Footer = ()=>{
                             <li>
                                 <a          
                                     target="_blank"
-                                    href="https://www.goodreads.com/book/show/57974452-guide-to-investing-in-stocks-bonds-etfs-and-mutual-funds"
+                                    href="https://www.goodreads.com/book/show/57997959-guide-to-investing-in-stocks-bonds-etfs-and-mutual-funds"
                                     rel="noreferrer"
                                     >
 
