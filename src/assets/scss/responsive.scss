@@ -45,6 +45,10 @@
         }
     }
 
+    .contentBook, .fullSection{
+        padding: 2rem;
+    }
+
     .one-grid-columns {
         .right-sub-text{
             text-align: center;
@@ -459,6 +463,9 @@
         padding: 20% 0 !important;
     }
 
+    .contentBook, .fullSection{
+        padding: 2rem;
+    }
 
     .art-columns{
         flex: auto !important;
@@ -523,6 +530,9 @@
         font-size: 24px !important;
     }
 
+    .contentBook, .fullSection{
+        padding: 2rem;
+    }
 
     .social-media-nav{
         ul{
