@@ -22,9 +22,8 @@ const Footer = ()=>{
                         </h1>
 
                         <p>
-                            Shyam Bahadur loves to hear from readers. You can reach her via email. 
-                            Feel free to send questions about writing, her works, interviews 
-                            and other publicity matters.
+                            Shyam Bahadur would love to hear from his readers. You can contact him via
+                            email. Feel free to send questions to him about the subject matter.
                         </p>
                         
                     <nav className="social-media-nav">

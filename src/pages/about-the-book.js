@@ -52,12 +52,13 @@ const ATB = (props)=>{
                                         </p>
 
                                         <p>
-                                        1. Concept of stocks and stock market, terminology, financial reports, stock selection and analysis with practical examples<br/> 
-                                        2. Concept of mutual funds, selection and analysis <br/>
-                                        3. Concept of exchange traded funds, selection and analysis <br/>
-                                        4. Discussion of bonds, fundamentals and selection <br/>
-                                        5. Portfolio development in light of asset allocation, tax considerations and rebalancing <br/>
-                                        6. Evaluation of market levels and strategies for bear market  <br/>
+                                        1. Concept of compounding, dollar cost averaging and introduction of tax deferred plans<br/> 
+                                        2. Discussion of stocks and stock market, financial reports, valuation measures, stock selection and analysis with practical examples <br/>
+                                        3. Concept of mutual funds, selection and analysis, practical examples <br/>
+                                        4. Concept of exchange traded funds, selection and analysis <br/>
+                                        5. Discussion of different kinds of bonds, fundamental aspects and selection<br/>
+                                        6. Portfolio development in light of the asset allocation, tax considerations and rebalancing; model portfolios<br/>
+                                        7.	Evaluation of market levels and strategies for bear market <br/>
                                         </p>
                                     `,
 

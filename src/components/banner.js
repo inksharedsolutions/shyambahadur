@@ -15,8 +15,8 @@ const Banner = ()=>{
                                 </p>  */}
 
                                 <h1>
-                                <span style={{display: 'inline-block', color: '#8bd5e1'}}>Assest allocation,</span> Diversification and
-                                Let the Money <span style={{display: 'inline-block',color: '#8bd5e1'}}>Rebalancing.</span>
+                                <span style={{display: 'inline-block', color: '#8bd5e1'}}>Guide </span> to Building
+                                Wealth With Stocks, Bonds, ETFS and<span style={{display: 'inline-block',color: '#8bd5e1'}}> Mutual Funds.</span>
                                 </h1>
 
                                 {/* <p className="right-sub-text">
