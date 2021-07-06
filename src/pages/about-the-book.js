@@ -37,7 +37,7 @@ const ATB = (props)=>{
 
                             <BookInfo
                                 data={{
-                                    title:`Don't Work for the Money, Let the Money Work for You`,
+                                    title:`Guide to investing in Stocks, Bonds, ETFS and Mutual Funds`,
                                     spanFirst:``,
                                     imgSrc: Book1,
                                     id:'',
