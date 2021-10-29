@@ -11,7 +11,7 @@ $prm-font-size : 12px;
 .web-banner{
 
     content: "";
-    background: url("../../../static/banner/banner1.jpeg") no-repeat;
+    background: linear-gradient(to bottom, #48676b88, rgba(0, 0, 0, 0.73)),url("../../../static/banner/banner1.jpeg") no-repeat;
     position: relative;
     height: 500px;
     width: 100%;
@@ -26,6 +26,7 @@ $prm-font-size : 12px;
         text-transform: uppercase;
         line-height: 2;
         color: #e8e4e4;
+        text-align: center;
     }
 
     h1{
@@ -33,6 +34,7 @@ $prm-font-size : 12px;
         font-weight: 900;
         text-transform: uppercase;
         color: #ffffff !important;
+        text-align: center;
     }
 }
 
@@ -460,4 +462,26 @@ $prm-font-size : 12px;
     text-transform: uppercase;
     font-weight: 600;
     font-size: 20px;
+}
+
+// get-started page
+
+.grid-two-columns{
+    margin: 125px 0;
+    row-gap: 50px;
+
+    .img-invest{
+        width: 250px;
+        display: block;
+        margin-inline: auto;
+    }
+
+    .content-invest{
+        text-align: justify;
+        box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+        padding:50px;
+        border-radius: 25px;
+        background: linear-gradient(#8BD5E1, #0B4265);
+        color: white;
+    }
 }
