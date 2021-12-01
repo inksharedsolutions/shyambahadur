@@ -26,7 +26,7 @@ const Banner = ()=>{
                                     Are you giving God His?
                                    </span>
                                 </p> */}
-                                <Link to="/get-started" className="get-started">Get Started</Link>
+                                <Link to="/about-the-book/#get-started" className="get-started">Get Started</Link>
                                 {/* <button className="get-started">Get Started</button> */}
                             </div>
                         </div>

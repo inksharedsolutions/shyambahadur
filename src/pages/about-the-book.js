@@ -7,6 +7,8 @@ import BookInfo from '../components/book-info/book-info'
 import { DiscussionEmbed } from "disqus-react"
 import Book1 from '../../static/books/main_book.png'
 
+import Invest from '../components/get-started'
+
 
 
 const ATB = (props)=>{
@@ -18,7 +20,6 @@ const ATB = (props)=>{
 	  config: { identifier:  12, slug}
     }
       
-
 	return (
 		<>
 		 	<Layout>
@@ -74,6 +75,8 @@ const ATB = (props)=>{
                                     }
                                 }} 
                             />
+
+                            <Invest />
 
                             <div className="commentSection">
                                 <div id="disqus_thread">
