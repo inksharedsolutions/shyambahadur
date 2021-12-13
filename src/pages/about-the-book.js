@@ -78,11 +78,11 @@ const ATB = (props)=>{
 
                             <Invest />
 
-                            <div className="commentSection">
+                            {/* <div className="commentSection">
                                 <div id="disqus_thread">
                                     <DiscussionEmbed {...disqusConfig} />
                                 </div>
-                            </div>
+                            </div> */}
                     </div>	
                 </main>
 

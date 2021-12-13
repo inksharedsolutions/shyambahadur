@@ -10,9 +10,9 @@ const MidMain = ()=>{
             <section className="mid-main">
                 <div className="container-gt separator-line">
                     <h1>Featured</h1>
-                    <p className="middle-params">
+                    {/* <p className="middle-params">
                         Shyam Bahadur has been featured numerous times on...
-                    </p>
+                    </p> */}
 
                     <div className="grid-template-four-col" id="logos-col">
                         <li>

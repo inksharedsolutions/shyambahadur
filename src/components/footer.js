@@ -111,9 +111,9 @@ const Footer = ()=>{
 
 
                     <div className="footer-child" id="newsletter">
-                        <h5>Newsletter</h5>
-                            <p>Stay up to date with the latest from me</p>
-                        <Newsletter/>
+                        <h5>Contact</h5>
+                            <p>Email: bahadur@iastate.edu</p>
+                        {/* <Newsletter/> */}
                     </div>
                 </div>
 
